@@ -1,51 +1,5 @@
 {"list":[
     {
-        "id": 11,
-        "name": "浅草寺",
-        "prefecture": "東京都",
-        "latitude": 35.7131015,
-        "longitude": 139.7937852,
-        "description": "浅草寺(Sensoji Temple}位于东京都台东区，是日本现存的具有“江户风格”的民众游乐之地。其是东京都内最古老的寺庙。寺院的大门叫“雷门”，正式名称是“风雷神门”，是日本和浅草地区的象征。\n",
-        "imageNames": [
-            "Sensoji",
-            "kaminari"
-        ],
-        "infoDetail": [
-            {
-                "title": "地址:",
-                "value": "东京都台东区浅草2-3-1"
-            },
-            {
-                "title": "电话:",
-                "value": "03-3842-0181"
-            },
-            {
-                "title": "定休日:",
-                "value": "无"
-            },
-            {
-                "title": "交通方式:",
-                "value": "地下铁<浅草站>"
-            },
-            {
-                "title": "停车场:",
-                "value": "无"
-            },
-            {
-                "title": "主页:",
-                "value": "https://www.senso-ji.jp/"
-            }
-        ],
-        "updated": "2023/07/19",
-        "typeInt": 1,
-        "from": "东京观光协会",
-        "transportType": 1,
-        "stayTime": 30,
-        "fee": 3100,
-        "openFrom": "9:30",
-        "openTil": "20:00"
-    },
-    {
         "id": 1,
         "name": "晴空塔",
         "prefecture": "東京都",
