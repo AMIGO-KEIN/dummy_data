@@ -1,0 +1,41 @@
+{
+  "dailogList": [
+    {
+      "dailogType": "talk",
+      "id": "123e4567-e89b-12d3-a456-426614174000",
+      "dailog": [
+        {
+          "id": "123e4567-e89b-12d3-a456-426614174001",
+          "role": "user",
+          "text": "Hello! How can I help you today?",
+          "time": "2023-10-05T14:48:00Z",
+          "isInteracting": true,
+          "errorText": ""
+        },
+        {
+          "id": "123e4567-e89b-12d3-a456-426614174002",
+          "role": "system",
+          "text": "I need assistance with my account.",
+          "time": "2023-10-05T14:49:00Z",
+          "isInteracting": false,
+          "errorText": "No connection."
+        }
+      ]
+    },
+    {
+      "dailogType": "system",
+      "id": "223e4567-e89b-12d3-a456-426614174003",
+      "dailog": [
+        {
+          "id": "223e4567-e89b-12d3-a456-426614174004",
+          "role": "system",
+          "text": "Your account will be reviewed shortly.",
+          "time": "2023-10-06T09:15:00Z",
+          "isInteracting": true,
+          "errorText": ""
+        }
+      ]
+    }
+  ]
+}
+
