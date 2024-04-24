@@ -1,0 +1,39 @@
+{
+    "isPlanSetupCompleted": true,
+    "name": "东京2日之旅",
+    "travelDays": 2,
+    "departDate": "2024-04-20T00:00:00Z",
+    "endDate": "2024-04-21T00:00:00Z",
+
+    "start": "东京站",
+    "startLocation": {
+        "title": "东京站",
+        "subtitle": "东京都",
+        "coordinate": {
+            "latitude": 35.681236,
+            "longitude": 139.767125
+        }
+    },
+    "isStartEndTheSame": true,
+    "end": "东京站",
+    "endLocation": {
+        "title": "东京站",
+        "subtitle": "东京都",
+        "coordinate": {
+            "latitude": 35.681236,
+            "longitude": 139.767125
+        }
+    },
+
+    "destination": ["Shinjuku", "Shibuya"],
+    "selectedPrefectures": ["东京都"],
+    "selectedRegions": ["关东"],
+    "transportType": 2,
+
+    "departHour": 9,
+    "departMin": 30,
+    "arriveHour": 18,
+    "arriveMin": 30,
+    "travelStyle": 1
+}
+
