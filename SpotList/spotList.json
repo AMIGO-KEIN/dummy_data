@@ -33,6 +33,10 @@
             {
                 "title": "主页:",
                 "value": "https://www.senso-ji.jp/"
+            },
+            {
+                "title": "附近景点:",
+                "value": "隅田川公园"
             }
         ],
         "updated": "2023/07/19",
