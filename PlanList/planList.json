@@ -555,6 +555,149 @@
                 "note": "全程电车",
                 "spend": "3000日元"
             }
+        },
+        {
+            "id": 3,
+            "selectedSpots": [
+                {
+                    "id": 1,
+                    "name": "大三巴牌坊",
+                    "prefecture": "東京都",
+                    "latitude": 22.194614,
+                    "longitude": 113.545891,
+                    "description": "大三巴牌坊（葡萄牙语：Ruínas da Antiga Catedral de São Paulo），别名圣保禄大教堂遗址，位于中国澳门特别行政区花王堂区炮台山下。大三巴牌坊前身为圣保禄教堂，始建于明万历三十年（1602年），于清道光十五年（1835年）1月26日被大火焚毁，仅余下大三巴牌坊。",
+                    "imageNames": [
+                        "skytree"
+                    ],
+                    "infoDetail": [
+                        {
+                            "title": "地址:",
+                            "value": "东京都台东区浅草2-3-1"
+                        },
+                        {
+                            "title": "电话:",
+                            "value": "03-3842-0181"
+                        },
+                        {
+                            "title": "定休日:",
+                            "value": "无"
+                        },
+                        {
+                            "title": "交通方式:",
+                            "value": "地下铁<浅草站>"
+                        },
+                        {
+                            "title": "停车场:",
+                            "value": "无"
+                        },
+                        {
+                            "title": "主页:",
+                            "value": "https://www.senso-ji.jp/"
+                        }
+                    ],
+                    "updated": "2023/07/19",
+                    "typeInt": 1,
+                    "from": "东京观光协会",
+                    "transportType": 1,
+                    "stayTime": 30,
+                    "fee": 3100,
+                    "openFrom": "9:30",
+                    "openTil": "20:00"
+                },
+                {
+                    "id": 2,
+                    "name": "妈阁庙",
+                    "prefecture": "東京都",
+                    "latitude": 22.1861677,
+                    "longitude": 113.528701,
+                    "description": "妈阁庙（葡萄牙语：Templo A-Má），古称海觉寺，又名妈祖阁，俗称天后宫，位于中国澳门特别行政区妈阁庙前地，是世界文化遗产——澳门历史城区的重要组成部分。",
+                    "imageNames": [
+                        "ameyoko"
+                    ],
+                    "infoDetail": [
+                        {
+                            "title": "地址:",
+                            "value": "东京都台东区浅草2-3-1"
+                        },
+                        {
+                            "title": "电话:",
+                            "value": "03-3842-0181"
+                        },
+                        {
+                            "title": "定休日:",
+                            "value": "无"
+                        },
+                        {
+                            "title": "交通方式:",
+                            "value": "地下铁<浅草站>"
+                        },
+                        {
+                            "title": "停车场:",
+                            "value": "无"
+                        },
+                        {
+                            "title": "主页:",
+                            "value": "https://www.senso-ji.jp/"
+                        }
+                    ],
+                    "updated": "2023/07/19",
+                    "typeInt": 1,
+                    "from": "东京观光协会",
+                    "transportType": 1,
+                    "stayTime": 60,
+                    "fee": 3200,
+                    "openFrom": "9:30",
+                    "openTil": "20:00"
+                }
+            ],
+            "setup": {
+                "isPlanSetupCompleted": true,
+                "name": "澳门1日之旅",
+                "travelDays": 1,
+                "departDate": "2024-04-20T00:00:00Z",
+                "endDate": "2024-04-21T00:00:00Z",
+                "start": "关闸",
+                "startLocation": {
+                    "title": "拱北关闸",
+                    "subtitle": "澳门特区",
+                    "coordinate": {
+                        "latitude": 22.213499,
+                        "longitude": 113.554337
+                    }
+                },
+                "isStartEndTheSame": true,
+                "end": "关闸",
+                "endLocation": {
+                    "title": "拱北关闸",
+                    "subtitle": "澳门特区",
+                    "coordinate": {
+                        "latitude": 22.213499,
+                        "longitude": 113.554337
+                    }
+                },
+                "destination": [
+                    "Shinjuku",
+                    "Shibuya"
+                ],
+                "selectedPrefectures": [
+                    "东京都"
+                ],
+                "selectedRegions": [
+                    "关东"
+                ],
+                "transportType": 2,
+                "departHour": 9,
+                "departMin": 30,
+                "arriveHour": 18,
+                "arriveMin": 30,
+                "travelStyle": 1
+            },
+            "note": {
+                "title": "澳门当日往返经典路线",
+                "membersNum": "2",
+                "note": "全程步行",
+                "spend": "3000"
+            }
         }
     ]
 }
