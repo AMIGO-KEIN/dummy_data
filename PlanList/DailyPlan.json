@@ -239,8 +239,7 @@
                 "openTil": "20:00"
             },
             "transportType": 2,
-            "expectedTravelTime": 3.0,
-            "distance": 2.0
+            "expectedTravelTime": 3,
         },
         {
             "source": 
@@ -335,8 +334,7 @@
                 "openTil": "20:00"
             },
             "transportType": 2,
-            "expectedTravelTime": 3.0,
-            "distance": 2.0
+            "expectedTravelTime": 3,
         },
         {
             "source": 
@@ -432,8 +430,7 @@
                 "openTil": "20:00"
             },
             "transportType": 2,
-            "expectedTravelTime": 3.0,
-            "distance": 2.0
+            "expectedTravelTime": 3
         },
         {
             "source": 
@@ -533,8 +530,7 @@
                 "openTil": "20:00"
             },
             "transportType": 2,
-            "expectedTravelTime": 3.0,
-            "distance": 2.0
+            "expectedTravelTime": 3
         }
     ],
     "start": {
