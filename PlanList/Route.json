@@ -91,5 +91,8 @@
     },
     "transportType": 2,
     "expectedTravelTime": 3.0,
-    "distance": 2.0
+    "distance": 2.0,
+    "departTime":"8:00",
+    "departDate":"2023-10-30T00:00:00Z",
+    "arriveTime":"11:00"
 }
