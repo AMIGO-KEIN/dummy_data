@@ -239,7 +239,10 @@
                 "openTil": "20:00"
             },
             "transportType": 2,
-            "expectedTravelTime": 3,
+            "expectedTravelTime": 30,
+            "departTime":"8:00",
+            "departDate":"2023-10-30T00:00:00Z",
+            "arriveTime":"8:30"
         },
         {
             "source": 
@@ -334,7 +337,10 @@
                 "openTil": "20:00"
             },
             "transportType": 2,
-            "expectedTravelTime": 3,
+            "expectedTravelTime": 30,
+            "departTime":"9:00",
+            "departDate":"2023-10-30T00:00:00Z",
+            "arriveTime":"9:30"
         },
         {
             "source": 
@@ -430,7 +436,10 @@
                 "openTil": "20:00"
             },
             "transportType": 2,
-            "expectedTravelTime": 3
+            "expectedTravelTime": 30,
+            "departTime":"10:00",
+            "departDate":"2023-10-30T00:00:00Z",
+            "arriveTime":"10:30"
         },
         {
             "source": 
@@ -530,7 +539,10 @@
                 "openTil": "20:00"
             },
             "transportType": 2,
-            "expectedTravelTime": 3
+            "expectedTravelTime": 30,
+            "departTime":"11:00",
+            "departDate":"2023-10-30T00:00:00Z",
+            "arriveTime":"11:30"
         }
     ],
     "start": {
