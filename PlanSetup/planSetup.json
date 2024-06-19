@@ -28,7 +28,7 @@
     "destination": ["Shinjuku", "Shibuya"],
     "selectedPrefectures": ["东京都"],
     "selectedRegions": ["关东"],
-    "transportType": 2,
+    "transport": 2,
 
     "departHour": 9,
     "departMin": 30,
