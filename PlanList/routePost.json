@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "source": 1,
+        "destination": 5,
+        "transport": 2,
+        "expected_travel_time": 30,
+        "depart_time": "8:00",
+        "depart_date": "2023-10-30",
+        "arrive_time": "8:30"
+    },
+    {
+        "id": 2,
+        "source": 5,
+        "destination": 6,
+        "transport": 2,
+        "expected_travel_time": 30,
+        "depart_time": "9:00",
+        "depart_date": "2023-10-30",
+        "arrive_time": "9:30"
+    },
+    {
+        "id": 3,
+        "source": 6,
+        "destination": 7,
+        "transport": 2,
+        "expected_travel_time": 30,
+        "depart_time": "10:00",
+        "depart_date": "2023-10-30",
+        "arrive_time": "10:30"
+    },
+    {
+        "id": 4,
+        "source": 7,
+        "destination": 1,
+        "transport": 2,
+        "expected_travel_time": 30,
+        "depart_time": "11:00",
+        "depart_date": "2023-10-30",
+        "arrive_time": "11:30"
+    }
+]

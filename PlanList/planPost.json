@@ -1,0 +1,60 @@
+{
+    "selected_spots": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "setup": {
+        "is_plan_setup_completed": true,
+        "name": "东京2日之旅",
+        "travel_days": 2,
+        "depart_date": "2024-04-20T00:00:00Z",
+        "end_date": "2024-04-21T00:00:00Z",
+        "start": "东京站",
+        "start_location": {
+            "coordinate": {
+                "latitude": 35.681236,
+                "longitude": 139.767125
+            },
+            "title": "东京站",
+            "subtitle": "东京都"
+        },
+        "is_start_end_the_same": true,
+        "end": "东京站",
+        "end_location": {
+            "coordinate": {
+                "latitude": 35.681236,
+                "longitude": 139.767125
+            },
+            "title": "东京站",
+            "subtitle": "东京都"
+        },
+        "destination": [
+            "Shinjuku",
+            "Shibuya"
+        ],
+        "selected_prefectures": [
+            "东京都"
+        ],
+        "selected_regions": [
+            "关东"
+        ],
+        "transport": 2,
+        "depart_hour": 9,
+        "depart_min": 30,
+        "arrive_hour": 18,
+        "arrive_min": 30,
+        "travel_style": 1
+    },
+    "note": {
+        "title": "首都两日经典路线",
+        "members": "4",
+        "note": "全程自驾,住五星级酒店.",
+        "spend": "30000日元"
+    },
+    "plan_list": [
+        1
+    ]
+}
